@@ -13,7 +13,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jojotace&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-<img width="640" height="360" alt="mob-psycho100-crying" src="https://github.com/user-attachments/assets/cc50b52a-277b-49a2-8572-37a887fff5d4" />
+<img width="640" height="360" alt="mob-psycho100-crying" src="https://github.com/user-attachments/assets/94a83bd7-447c-4243-9bbd-81a82ac14cdc" />
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=jojotace&icon=0&color=0)](https://visitcount.itsvg.in)
