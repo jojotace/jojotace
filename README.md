@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖤  Sou o Júlio César, também conhecido como JOJO, tenho 20 anos e curso Ciência da Computação.<br>🌵   Sempre estou no caminho de tentar algo novo.<br><br>♠️A produtividade floresce onde o foco é nutrido.
+🖤  Sou o Júlio César, tenho 20 anos e curso Ciência da Computação.<br>🌵   Sempre estou no caminho de tentar algo novo.<br><br>♠️A produtividade floresce onde o foco é nutrido.
 
 
 ## 🌐 Socials:
